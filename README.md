@@ -5,12 +5,6 @@
 
 ---
 
-## Step by step explanation
-
-A full explanation on how to build such game may be found on my blog.
-
----
-
 ## Credits
 
 Some icons such as tnt, rocket, mine and wall come from <a href="http://www.pngtree.com" target="_blank">https://pngtree.com/</a>.
